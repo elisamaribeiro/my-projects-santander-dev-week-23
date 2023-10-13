@@ -4,7 +4,7 @@ Este repositório é reservado para os projetos que desenvolvi durante o **Santa
 
 Aqui nesse repositório, você encontrará os projetos:
 
-1. [Explorando IA Generativa em um Pipeline de ETL com Python](docs/ia-generativa-pipeline-etl.md)
+1. [Explorando IA Generativa em um Pipeline de ETL com Python](ia-generativa-pipeline-etl.md)
 2. Desafios de código: Aperfeiçoe sua lógica e pensamento computacional
 3. Desafios Python: Equilibrando Saldo
 4. Desafios Python: Organizando seus ativos
