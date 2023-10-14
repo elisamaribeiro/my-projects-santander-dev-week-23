@@ -29,7 +29,7 @@ Aqui nesse repositório, você encontrará os projetos:
    | 5000 |
    | 5001 |
         
-   Continua (...)
+   [Continua (...)](ia-generativa-pipeline-etl.py)
 
 2. Desafios de código: Aperfeiçoe sua lógica e pensamento computacional
 3. Desafios Python: Equilibrando Saldo
