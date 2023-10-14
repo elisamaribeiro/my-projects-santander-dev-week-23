@@ -25,11 +25,11 @@ Criei um arquivo .csv no meu computador com apenas a coluna ID e salvei com o no
 
 ### Passo três: upload arquivo .csv e extrair informações de ID da API do Santander 
 De início, criei uma variável com o endereço da API:
-```
+```python
 sdw2023_api_url = 'https://sdw-2023-prd.up.railway.app'
 ```
 A seguir, importei a biblioteca pandas para extrair os dados e carreguei o meu arquivo .csv com os IDs.
-```
+```python
 import pandas as pd
 
 df = pd.read_csv('SDW2023.csv')
@@ -37,11 +37,11 @@ user_ids = df['UserID'].tolist()
 print(user_ids)
 ```
 O print() retornou:
-```
+```python
 [4997, 4998, 4999, 5000, 5001]
 ```
 Após isso, rodei o código para importar os dados dos usuários que gerei no [Swagger UI](https://sdw-2023-prd.up.railway.app/swagger-ui/index.html#/Users%20Controller/findById).
-```
+```python
 import requests
 import json
 
@@ -53,7 +53,7 @@ users = [user for id in user_ids if (user := get_user(id)) is not None]
 print(json.dumps(users, indent=2))
 ```
 Com isso, meus usuários foram retornados:
-```
+```python
 [
   {
     "id": 4997,
@@ -149,15 +149,15 @@ Com isso, meus usuários foram retornados:
 ```
 ### Passo quatro: fase de transformação de dados, onde deve ser gerado uma mensagem de marketing personalizada para cada usuário utilizando a IA Generatira GPT-4
 Primeiro, instalei o _openai_ para conseguir utilizar o GPT-4:
-```
+```python
 !pip install openai
 ```
 Depois, informei minha API Key da Open IA para conseguir utilizar o Chat:
-```
+```python
 openai_api_key = 'inclua-key-aqui'
 ```
 Depois, passei as instruções para o Python informando que eu queria que ele gerasse, via IA GPT-4, mensagens personalizadas para cada um dos 5 usuários que criei, informando sobre a importância do investimento no planejamento financeiro do cliente:
-```
+```python
 import openai
 
 openai.api_key = openai_api_key
@@ -187,6 +187,6 @@ for user in users:
   })
 ```
 Ao executar o código anterior, tive como retorno:
-```
+```python
 
 ```
