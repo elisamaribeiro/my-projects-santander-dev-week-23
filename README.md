@@ -102,7 +102,7 @@ Aqui nesse repositório, você encontrará os projetos:
 
     [Continua (...)](juros_compostos.py) 
 
-6. Desafios Python: O grande depósito
+6. [Desafios Python: O grande depósito](grande_deposito.py)
 
     **Descrição do sexto desafio:** Você foi contratado por um banco para desenvolver um programa que auxilie seus clientes a realizar depósitos em suas contas. O programa deve solicitar ao cliente o valor do depósito e verificar se o valor é válido. Se o valor for maior do que zero, o programa deve adicionar o valor ao saldo da conta. Caso contrário, o programa deve exibir uma mensagem de erro. O programa deve soliticar apenas uma vez o valor de depósito.
 
@@ -112,9 +112,10 @@ Aqui nesse repositório, você encontrará os projetos:
     ### Saída
     O programa deve exibir uma mensagem de sucesso quando um valor de depósito válido for informado e o saldo da conta for atualizado. Se o valor for "0", deverá imprimir uma mensagem encerrando o programa. Caso um valor inválido seja digitado, o programa deve exibir uma mensagem de erro solicitando um novo valor.
 
-    Continua (...)
+    [Continua (...)](grande_deposito.py)
 
 7. Criando um relatório de vendas elegante com Power BI
+
 8. Processando e transformando dados com Power BI
 
 Neste curso, utilizei a liguagem de programação Python, além de ter explorado SQL e Power BI.
