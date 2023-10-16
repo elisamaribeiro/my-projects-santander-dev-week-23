@@ -100,7 +100,7 @@ Aqui nesse repositório, você encontrará os projetos:
     ### Saída:
     A função deve retornar o valor final do investimento após o período determinado, considerando os juros compostos. O valor final deve ser arredondado para duas casas decimais.
 
-    [Continua (...)](juros_compostos.py)
+    [Continua (...)](juros_compostos.py) 
 
 6. Desafios Python: O grande depósito
 
