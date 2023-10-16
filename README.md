@@ -4,7 +4,7 @@ Este repositório é reservado para os projetos que desenvolvi durante o **Santa
 
 Aqui nesse repositório, você encontrará os projetos:
 
-1. [Explorando IA Generativa em um Pipeline de ETL com Python](ia-generativa-pipeline-etl.py)
+## 1. [Explorando IA Generativa em um Pipeline de ETL com Python](ia-generativa-pipeline-etl.py)
 
     Nesse projeto, o objetivo era realizar um Pipeline ETL, isto é, extrair dados de uma API do Banco Santander, transformar os dados gerando uma mensagem personalizada para cada usuário - utilizando a IA Generativa GPT-4 - e carregar os dados transformados para a API do Santander novamente.
         
