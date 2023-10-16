@@ -86,7 +86,7 @@ Aqui nesse repositório, você encontrará os projetos:
 
     [Continua (...)](condicionalmente_rico.py)
 
-5. Desafios Python: Juros compostos
+5. [Desafios Python: Juros compostos](juros_compostos.py)
 
     **Descrição do quinto desafio:** Imagine que você está desenvolvendo um aplicativo para um banco que deseja calcular os juros compostos de um investimento. Seu objetivo é criar uma função que receba três parâmetros: o valor inicial do investimento, a taxa de juros anual e o período de tempo em anos. A função deve calcular e retornar o valor final do investimento após o período determinado, levando em consideração os juros compostos.
 
@@ -100,7 +100,7 @@ Aqui nesse repositório, você encontrará os projetos:
     ### Saída:
     A função deve retornar o valor final do investimento após o período determinado, considerando os juros compostos. O valor final deve ser arredondado para duas casas decimais.
 
-    Continua (...)
+    [Continua (...)](juros_compostos.py)
 
 6. Desafios Python: O grande depósito
 
