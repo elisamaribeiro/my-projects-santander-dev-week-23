@@ -51,7 +51,7 @@ Aqui nesse repositório, você encontrará os projetos:
 
     [Continua(...)](equilibrando_saldo.py)
     
-3. Desafios Python: Organizando seus ativos
+3. [Desafios Python: Organizando seus ativos](organizando_ativos.py)
 
     **Descrição do terceiro desafio:** Após uma análise cuidadosa realizada pela equipe de desenvolvimento de uma empresa bancária, foi identificado a necessidade de uma nova funcionalidade para otimizar os processos e melhorias da experiência dos usuários. Agora, sua tarefa é implementar uma solução que organize em ordem alfabética uma lista de ativos que será informada pelos usuários. Os ativos são representados por strings que representam seus tipos, como por exemplo: Reservas de liquidez, Ativos intangiveis e dentre outros.
 
@@ -63,7 +63,7 @@ Aqui nesse repositório, você encontrará os projetos:
 
     Seu programa deve exibir a lista de Ativos organizada em ordem alfabética. Cada ativo deve ser apresentado em uma linha separada.
 
-    Continua(...)
+    [Continua(...)](organizando_ativos.py)
 
 4. Desafios Python: Condicionalmente rico
 5. Desafios Python: Juros compostos
