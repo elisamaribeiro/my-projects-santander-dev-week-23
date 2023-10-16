@@ -31,13 +31,12 @@ Aqui nesse repositório, você encontrará os projetos:
         
    [Continua (...)](ia-generativa-pipeline-etl.py)
 
-2. Desafios de código: Aperfeiçoe sua lógica e pensamento computacional
-3. Desafios Python: Equilibrando Saldo
-4. Desafios Python: Organizando seus ativos
-5. Desafios Python: Condicionalmente rico
-6. Desafios Python: Juros compostos
-7. Desafios Python: O grande depósito
-8. Criando um relatório de vendas elegante com Power BI
-9. Processando e transformando dados com Power BI
+2. Desafios Python: Equilibrando Saldo
+3. Desafios Python: Organizando seus ativos
+4. Desafios Python: Condicionalmente rico
+5. Desafios Python: Juros compostos
+6. Desafios Python: O grande depósito
+7. Criando um relatório de vendas elegante com Power BI
+8. Processando e transformando dados com Power BI
 
 Neste curso, utilizei a liguagem de programação Python, além de ter explorado SQL e Power BI.
