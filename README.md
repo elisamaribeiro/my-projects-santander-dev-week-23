@@ -31,7 +31,7 @@ Aqui nesse repositório, você encontrará os projetos:
         
    [Continua (...)](ia-generativa-pipeline-etl.py)
 
-2. Desafios Python: Equilibrando Saldo
+2. [Desafios Python: Equilibrando Saldo](equilibrando_saldo.py)
 
    Nesse projeto, o desafio era para eu considerar que fui contratada por uma empresa bancária para auxiliar nas implementações e melhorias do sistema empresarial. Em uma análise inicial, foi identificado pela equipe financeira a necessidade de desenvolver uma solução que permita ao cliente equilibrar seu saldo bancário. Dessa forma, o programa deve solicitar uma entrada que representa o saldo atual do funcionário, e após, seja informado o valor de duas transações, sendo elas: _um depósito e um saque_. O programa deve atualizar o saldo com base nas transações e exibir o saldo final.
 
@@ -49,13 +49,13 @@ Aqui nesse repositório, você encontrará os projetos:
 
     Um número decimal que representa o saldo atualizado na conta bancária após o processamento das transações. 
 
-    Continua(...)
+    [Continua(...)](equilibrando_saldo.py)
     
-4. Desafios Python: Organizando seus ativos
-5. Desafios Python: Condicionalmente rico
-6. Desafios Python: Juros compostos
-7. Desafios Python: O grande depósito
-8. Criando um relatório de vendas elegante com Power BI
-9. Processando e transformando dados com Power BI
+3. Desafios Python: Organizando seus ativos
+4. Desafios Python: Condicionalmente rico
+5. Desafios Python: Juros compostos
+6. Desafios Python: O grande depósito
+7. Criando um relatório de vendas elegante com Power BI
+8. Processando e transformando dados com Power BI
 
 Neste curso, utilizei a liguagem de programação Python, além de ter explorado SQL e Power BI.
