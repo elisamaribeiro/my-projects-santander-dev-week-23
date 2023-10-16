@@ -65,7 +65,7 @@ Aqui nesse repositório, você encontrará os projetos:
 
     [Continua(...)](organizando_ativos.py)
 
-4. Desafios Python: Condicionalmente rico
+4. [Desafios Python: Condicionalmente rico](condicionalmente_rico.py)
 
     **Descrição do quarto desafio:** Uma nova feature para um sistema bancário foi analisada pela equipe de desenvolvimento e será uma das tarefas a serem trabalhadas durante a sprint, como desenvolvedor da empresa você recebeu os requisitos para a nova implementação que consiste em uma solução algorítmica que permita aos clientes realizarem saques em caixas eletrônicos. No entanto, existem algumas regras a serem seguidas para garantir que um saque possa ser realizado com sucesso.
 
@@ -84,7 +84,7 @@ Aqui nesse repositório, você encontrará os projetos:
 
     Se o saque não for possível devido a saldo insuficiente, exibir a mensagem "Saldo insuficiente. Saque nao realizado!"
 
-    Continua (...)
+    [Continua (...)](condicionalmente_rico.py)
 
 5. Desafios Python: Juros compostos
 
