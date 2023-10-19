@@ -114,7 +114,7 @@ Aqui nesse repositório, você encontrará os projetos:
 
     [Continua (...)](grande_deposito.py)
 
-7. Criando um relatório de vendas elegante com Power BI
+7. [Criando um relatório de vendas elegante com Power BI](powerbi-vendas)
 
 8. Processando e transformando dados com Power BI
 
