@@ -3,7 +3,7 @@
 Este subdiretório é destinado ao meu projeto do primeiro desafio de Power BI da DIO. Neste desafio, eu deveria criar um relatório mais elaborado com base na sample financials do Power BI. 
 Os arquivos de dados estão disponíveis no github: 
 
-[https://github.com/julianazanelatto/power_bi_analyst ](GitHub da Prof.ª Juliana Zanelatto)
+[GitHub da Prof.ª Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst )
 
 
 ### No projeto, eu deveria ficar atenta a: 
