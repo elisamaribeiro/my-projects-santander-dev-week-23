@@ -5,6 +5,8 @@
 
 Este repositório é reservado para os projetos que desenvolvi durante o **Santander Bootcamp 2023 - Ciência de Dados com Python**, que aconteceu entre os dias 16/08/2023 até 22/10/2023, no portal da **Digital Innovation One (DIO)**.
 
+## Projetos desenvolvidos
+
 Aqui nesse repositório, você encontrará os projetos:
 
 1. [Explorando IA Generativa em um Pipeline de ETL com Python](ia-generativa-pipeline-etl.py)
