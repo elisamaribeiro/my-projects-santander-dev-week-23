@@ -1,4 +1,7 @@
-# Meus Projetos do Santander Dev Week 2023
+<h1 align="center">Ciência de Dados com Python</h1>
+<p align="center"><i>Meus Projetos do Santander Dev Week 2023</i></p>
+
+##  Sobre este repositório
 
 Este repositório é reservado para os projetos que desenvolvi durante o **Santander Bootcamp 2023 - Ciência de Dados com Python**, que aconteceu entre os dias 16/08/2023 até 22/10/2023, no portal da **Digital Innovation One (DIO)**.
 
